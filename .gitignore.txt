@@ -11,7 +11,7 @@
 .vs/
 .vscode/
 
-# OS generated
+# OS files
 .DS_Store
 Thumbs.db
 
@@ -19,5 +19,9 @@ Thumbs.db
 *.apk
 *.aab
 
-# Crash reports
-sysinfo.txt
+# Firebase large native binaries
+Assets/Firebase/Plugins/x86/
+Assets/Firebase/Plugins/x86_64/
+
+# Firebase generated files
+Assets/Firebase/Editor/AppDependencies.xml
