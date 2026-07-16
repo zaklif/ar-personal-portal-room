@@ -30,3 +30,23 @@ AR Personal Portal Room provides users with a virtual space where they can custo
 - Blender / GLB 3D Models
 
 ## Project Structure
+Assets/
+├── Scripts
+├── Scenes
+├── Prefabs
+├── Materials
+└── Models
+
+Packages/
+ProjectSettings/
+
+## Requirements
+
+- Android device supporting ARCore
+- Unity 6000.3.10f1 
+- Android Build Support module
+
+## Author
+
+Alif Zakwan Bin Azman  
+Software Engineering Student
