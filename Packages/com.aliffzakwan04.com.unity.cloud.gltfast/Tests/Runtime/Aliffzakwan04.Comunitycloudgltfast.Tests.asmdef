@@ -1,0 +1,11 @@
+{
+    "name": "Aliffzakwan04.Comunitycloudgltfast.Tests",
+    "references": [
+        "Aliffzakwan04.Comunitycloudgltfast"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Aliffzakwan04.Comunitycloudgltfast.Editor.Tests",
+    "references": [
+        "Aliffzakwan04.Comunitycloudgltfast.Editor",
+        "Aliffzakwan04.Comunitycloudgltfast"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

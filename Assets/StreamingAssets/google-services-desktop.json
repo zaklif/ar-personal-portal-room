@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1043757447886",
+    "firebase_url": "https://portalarroom-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "portalarroom",
+    "storage_bucket": "portalarroom.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043757447886:android:f3f881e706be8668696e9f",
+        "android_client_info": {
+          "package_name": "com.UnityTechnologies.ARPortalRoom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCES2lFvaBWPWRqeGz54DaqTky1Fub8K8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

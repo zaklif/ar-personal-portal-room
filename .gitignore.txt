@@ -19,9 +19,9 @@ Thumbs.db
 *.apk
 *.aab
 
-# Firebase large native binaries
+# Firebase native plugins
 Assets/Firebase/Plugins/x86/
 Assets/Firebase/Plugins/x86_64/
 
-# Firebase generated files
-Assets/Firebase/Editor/AppDependencies.xml
+# Firebase config
+google-services.json

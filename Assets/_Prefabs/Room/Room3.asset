@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38d744217488ec542a78a7344e85f078, type: 3}
+  m_Name: Room3
+  m_EditorClassIdentifier: Assembly-CSharp::RoomTemplateData
+  templateName: Room3
+  description: white room
+  previewImage: {fileID: 0}
+  roomPrefab: {fileID: 2351122992051855723, guid: 38883376ca1e3c84f975de737f1cf3e7, type: 3}
+  prefabRotationOffset: {x: 90, y: 180, z: 0}
+  spawnHeightOffset: 1
