@@ -46,6 +46,23 @@ ProjectSettings/
 - Unity 6000.3.10f1 
 - Android Build Support module
 
+## Screenshots
+
+### Login Interface
+![Login Interface](Screenshots/login.jpg)
+
+### Home Screen
+![Home Screen](Screenshots/home.jpg)
+
+### AR Portal Room
+![AR Portal Room](Screenshots/portal_room.jpg)
+
+### Room Customization
+![Room Customization](Screenshots/room_customization.jpg)
+
+### Explore Room
+![Explore Room](Screenshots/explore.jpg)
+
 ## Author
 
 Alif Zakwan Bin Azman  
